@@ -16,7 +16,7 @@ env/
 
 # Dataset
 
-dataset/GroceryStoreDataset-master/
+dataset/*/
 dataset/*.zip
 
 # Machine Learning Models
