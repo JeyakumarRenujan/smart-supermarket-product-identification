@@ -22,7 +22,6 @@ dataset/*.zip
 # Machine Learning Models
 
 models/*.pth
-models/*.pt
 models/*.h5
 models/*.keras
 models/*.onnx
